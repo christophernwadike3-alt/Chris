@@ -1,0 +1,77 @@
+Clean power is weather. That rule has shaped every grid on Earth for 40 years. The wind blows and the lights stay on. The wind drops and somebody somewhere burns gas to fill the gap. It won because there was nothing else, because the sun and the wind were the only free fuel anyone could catch. And so every country that went green quietly kept a second power system waiting in reserve for the days the sky let it down.
+
+At the top of Scotland, in a channel of water between Caithness and the Orkney Islands, British engineers have stopped waiting on the sky. A turbine you will never see, sitting on the seabed in the dark. A firth so violent the old sailors gave its currents names. An island that was emptied of people in 1962. A test site in Orkney that refused to give up. A shipyard on the Cromarty Firth. And in one room, far from the sea, sits the most important machine in this whole story, and it is being kept for the very end. It was built in 1872.
+
+Hold one number in your head as we go. It is not a speed and it is not a price. It is a length of time. And by the end, it explains why grid engineers from Paris to Ottawa are studying a stretch of water most people could not find on a map.
+
+To see why that number matters, you have to remember how many times this country has been first to the sea and then let it go. In 1974, an Edinburgh engineer called Stephen Salter published a design in the journal Nature. It was a string of floats that nodded with the waves like ducks on a pond and turned that nodding into electricity. People called it Salter's Duck. For a few short years, Britain led the world in wave power. Then in the early 1980s, the government programme was cut back, and the money went elsewhere.
+
+That was the first loss. The second was on land. In 1987, on Burgar Hill in Orkney, a British consortium raised a three-megawatt wind turbine, among the most powerful on Earth at the time. Britain had the windiest coast in Europe and the engineers to use it. But the orders never came, and the wind industry drifted across the North Sea to Denmark. Today Britain runs one of the largest offshore wind fleets in the world, and most of the turbines spinning in it were designed somewhere else.
+
+And the pattern kept repeating, closer to the water. In April 2008, in Strangford Lough in Northern Ireland, a Bristol company called Marine Current Turbines installed SeaGen, the first commercial-scale tidal turbine anywhere. Four years later, the company was sold to Siemens of Germany. In November 2014, Pelamis Wave Power of Edinburgh, whose red sea snake had powered the first wave farm in the world, went into administration. A few months later, Aquamarine Power, with its wave machine in Orkney, followed it.
+
+Britain never ran short of ideas. It ran short of patience.
+
+That is exactly why the next part matters so much. Because one place never stopped. In 2003, in Stromness, Orkney, the European Marine Energy Centre opened its doors. Cables were laid from the shore out to test berths in the sea, so that any company with a machine could plug it into real water and real weather and see if it survived. Off the island of Eday, in a channel called the Fall of Warness, tidal turbines were lowered in, hauled out, broken, fixed, and lowered in again. Year after year, while the money came and went, the cables in the water stayed live.
+
+The hardest part of building marine power is not the turbine. It is keeping somewhere to fail.
+
+Now to the problem those engineers were trying to solve, and it is one you have lived through without noticing. Picture a cold week in January. A high pressure system parks itself over Britain. The air goes still and frosty. The sky is clear, and the sun sets before half past four. From the giant offshore farms on the Dogger Bank to Whitelee on the moors south of Glasgow, wind turbines across the country slow almost to a stop. And that is exactly the week everyone turns the heating up. So the gas stations fire up, and every one of them has to be kept, maintained, and staffed for the handful of weeks a year the weather fails. A wind farm can tell you roughly what it will make tomorrow. It cannot tell you about next February.
+
+Engineers have a word for the power the grid can rely on, and wind and sun do not have much of it. It is like owning a car that starts most mornings. You still need a second car on the drive. And that second car costs money every single day, whether you drive it or not. Every backup plant is a building full of steel and staff that earns its keep for only a few weeks a year, and every household in the country pays for it on the bill.
+
+So imagine a power source that is not weather at all. It does not depend on the sky. It depends on the Moon. And that takes us north to the end of the road.
+
+Drive to John o' Groats, keep going a few miles east to the cliffs at Duncansby Head, and look out across the water. That is the Pentland Firth. On one side is the Atlantic Ocean. On the other is the North Sea. And the two do not rise and fall together. The tide reaches one end of the Firth hours before it reaches the other. So the sea tilts. Twice a day, the whole weight of the ocean pours through a gap barely seven miles wide, one way and then back the other.
+
+The currents here are some of the fastest anywhere in British waters. Sailing guides warn of streams above 15 knots in places. There is a whirlpool off the north tip of the island of Stroma, called the Swilkie, and off St John's Point a tidal race the fishermen called the Merry Men of Mey, where standing waves break in open water on a calm day. Ships have been lost here for as long as ships have sailed.
+
+Between Stroma and the Caithness shore lies a narrower channel called the Inner Sound. Stroma itself is empty now. The last families left in 1962, and their stone houses are open to the sky. But under the water beside it, something is working.
+
+That is MeyGen. And to understand why it matters, you have to understand one simple fact about water. Sea water is more than 800 times denser than air. A wind turbine needs a strong breeze to do serious work. A tidal turbine needs only a current moving at a brisk walk, and that current pushes on the blades like a gale. A slow tide carries the punch of a storm.
+
+And speed matters more than anything else. Double the speed of the water and the power does not double. It rises eight times over. That is why a few knots of extra current in the Inner Sound is worth more than a whole extra turbine somewhere slower. The developers did not pick this spot for the view. They picked it because it is one of the fastest places in Britain that is still shallow enough to build in.
+
+There was one problem with all that force. It wants to tear things apart. So the turbines here are built like nothing on a hillside. Each one is a three-bladed machine with a rotor 18 metres across, close to the length of a cricket pitch. It sits on a heavy steel base on the seabed, in water deeper than a 10-storey block of flats is tall. There is no tower and nothing to see from the shore, not even a buoy marking the spot. A passing ferry sails straight over the top.
+
+The first of those machines were assembled at Nigg Energy Park on the Cromarty Firth, a yard with a long history in North Sea oil. In September 2016, the first turbine was unveiled there. In November that year, it sent its first electricity ashore through a cable laid under the seabed and drilled in beneath the shoreline, so the cliffs were never cut open. By April 2018, four turbines were turning in the Inner Sound, six megawatts in all, and the project entered a 25-year operating life.
+
+Getting them down there was a job against the clock. In water this fast, no diver and no crane can work while the tide is running. So every lift has to fit inside the short slack window when the current turns and the sea goes briefly still. A heavy-lift vessel holds its position, the turbine is lowered on wires, and it locks onto its base before the water starts moving again. Miss the window and the whole crew waits six hours for the next one. Engineers here do not plan their week around the weather forecast. They plan it around the tide table.
+
+Pause on that for a moment. For decades, tidal power was a prototype. A single machine, tested for a season, hauled out, and written up in a report. MeyGen was the first time anyone put several large tidal turbines side by side and left them there to work like a power station. Its developers say it has now sent more electricity to the grid than any other tidal stream array on Earth.
+
+And it does not stand alone. Hold on to Orkney, because the pieces are now lining up around it.
+
+Back at the Fall of Warness, in April 2021, a company called Orbital Marine Power launched a machine called the O2 from Dundee. It is 74 metres long, a yellow hull floating on the surface, with two legs that swing down into the current and two rotors at their tips, each about 20 metres across. When the tide turns, the rotors turn to meet it. When it needs servicing, the legs swing up and a small boat can reach it, with no giant crane barge and no divers. It is called the most powerful tidal turbine in the world. And on Orkney, spare tidal power has already been used to split water and make hydrogen, carried to the harbour at Kirkwall.
+
+Then north again to Shetland. In Bluemull Sound, between the islands of Yell and Unst, an Edinburgh company called Nova Innovation put a cluster of smaller turbines on the seabed in 2016, and they have fed the Shetland grid since. Three different machines, built on three different ideas. One sits on the seabed, one floats on the surface, one is small enough to service from a fishing harbour. Not one design bet on by the whole country, but several tried in real water at the same time. That is how wind was won in Denmark in the 1980s, with many small companies, many machines, and the bad ones weeded out by the weather. This time, the weeding is happening in Scottish water.
+
+So that is the seabed array in Caithness, the floating machine in Orkney, the small turbines in Shetland, and the test site that taught all of them how to survive. Drawings and test berths only go so far, though, and this is where the country had to decide whether it meant it.
+
+It did. For years, tidal power had to compete in government auctions against offshore wind, which had a 10-year head start and factories behind it. Tidal could never win. Then, in 2022, the government set aside a portion of the auction for tidal stream alone. MeyGen won a contract to add 28 more megawatts. Other projects followed, from Orkney to a tidal zone off Holy Island in Anglesey. The Crown Estate lease for the Inner Sound allows MeyGen to grow to nearly 400 megawatts, and its developers say that at full size it could power around 175,000 homes.
+
+Read those decisions side by side and you see the trick. The ring-fenced contracts give the builders something to build tomorrow. The Orkney test site keeps the skills sharp today. Neither works without the other.
+
+Now for the honest part, because this story deserves it. Tidal power is still expensive. Each unit of electricity from these early contracts costs several times what offshore wind now costs. Wind was expensive once too, and its price fell by around two thirds in a decade. But that happened with thousands of turbines built. Tidal has built dozens.
+
+The tide also stops. Four times a day, as it turns, the water goes slack, and for an hour or so the turbines slow and stop. And every two weeks, in the neap tides, the current is weaker. The grid at the top of Scotland is thin, and cables south are slow and expensive to build. Salt water eats metal. Seals and porpoises hunt in these channels too, so cameras and sonar watch the turbines around the clock, and every new machine has to prove it is safe for them before it goes in. Every hour a boat spends hauling a turbine up for repair in the Firth costs money that wind farms on land never spend. And the company behind MeyGen has been through debt, a name change, and hard times. Marine power in Britain has broken hearts before.
+
+Those risks are real. But this time, the sea itself is helping, and that brings us back to the number, and to the machine kept for last.
+
+In 1872, a Glasgow professor called William Thomson, the man the world would later know as Lord Kelvin, designed a machine of brass pulleys, gears, and a single long wire. Each pulley stood for one pull on the sea. One for the Moon. One for the Sun. Others for the tilt of the Earth and the wobble of the Moon's orbit. Turn a handle and a pen drew the tide for a whole year ahead at any harbour on Earth. A year's tides took about four hours to draw.
+
+Seventy years later, those machines went to war. In 1944, at the Liverpool Tidal Institute, a mathematician called Arthur Doodson was given a set of coordinates and no names. He worked out the tides for a stretch of coast he was not told was Normandy. On the morning of D-Day, the landing craft came in on the tide his machines had drawn.
+
+Here is why that matters for the Pentland Firth. The wind is chaos. Nobody alive can tell you if it will blow next February. But the tide is clockwork. It answers to the Moon and the Sun, and they have kept the same timetable for millions of years. So the engineers at MeyGen can do something no wind farm on Earth can do.
+
+They can tell you how much power their turbines will make at quarter past three on any Tuesday afternoon, not tomorrow, not next month, but across their entire working life. That is the number. 25 years. Weather adds a small wobble, a storm surge here, a heavy swell there. But the shape of every day's output is known before the turbine is even lowered into the sea.
+
+That is why the grid engineers are watching. The most valuable thing about tidal power is not the amount. It is the timetable.
+
+Now look at how the pieces lock together. The Moon tilts the sea through the Firth. The tilt drives the fastest water in Britain. Density turns a slow current into a storm. The seabed hides the turbines from the waves. The Orkney test site taught them how to survive. The ring-fenced contracts give them a reason to multiply. And because Pentland, Orkney, Shetland, and Anglesey do not peak at the same moment, a string of sites around the coast can pass the power from one to the next like runners passing a baton.
+
+Pull any one piece out and the rest falls.
+
+Over 150 years after a Glasgow professor taught a brass machine to read the sea, the country that kept inventing marine power and selling it off has found a piece it intends to keep. And it is turning quietly in the dark, under the most violent water in Europe, where the tide has never once failed to come back.
+
+If you want to follow the next chapter of Britain's power from the sea, subscribe to my channel.
